@@ -1,10 +1,3 @@
-your_project/
-│
-├── app.py              # 메인 페이지 (실습 1)
-└── pages/
-    ├── 1_Chat.py       # 실습 2 페이지
-    ├── 2_Library.py    # 실습 3 페이지
-    └── 3_ChatPDF.py    # 실습 4 페이지
 
   pip install streamlit openai pypdf
 
